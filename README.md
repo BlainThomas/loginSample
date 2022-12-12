@@ -16,3 +16,4 @@ You can buy a point for 50 coins which is reflected on the leaderboard. An accou
 [Github Link](https://github.com/BlainThomas)
 
 Mobile coming soon for Android and iOS. Please visit Bad a Billiards mobile for a current demo of  more features and live projecct.
+[Live Site Link](https://dev-on.itch.io/bad-a-billiards)
